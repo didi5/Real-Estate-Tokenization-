@@ -70,10 +70,7 @@ Open `index.html` in a browser or use a simple local development server.
 
 ## Author
 
-**Dilem Kaya — AI Engineer & AI Product Builder**
-
-- Website: [dilemkaya.com](https://www.dilemkaya.com)
-- LinkedIn: [Dilem Kaya](https://www.linkedin.com/in/dilemkaya/)
+**Dilem Kaya 
 
 ## Disclaimer
 
